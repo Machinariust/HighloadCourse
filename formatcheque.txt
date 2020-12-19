@@ -1,0 +1,8 @@
+OOO "AAO"
+<Adress>
+Cashier: I. Ivanov
+<product list>
+<in format>
+<id, name, quant, cost>
+Total: XXX
+Datetime: hh:mm:ss MM:DD:YYYY
